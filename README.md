@@ -7,9 +7,12 @@
 Descripcion de negocio:
 
 ```txt
-Pagina donde organizan competiciones y eventos donde el usuario se inscribe a la competición ya sea individual o por equipos. Donde posteriormente se sube mediante un formulario los resultados propios junto a una prueba visual(Video). 
+Pagina donde organizan competiciones y eventos donde el usuario se inscribe a la /n c
+ompetición ya sea individual o por equipos. Donde posteriormente se sube mediante /n
+ un formulario los resultados propios junto a una prueba visual(Video). 
 
-los resultados son publicados, una vez enviado el formulario, en una tabla de clasificaciones totalmente pubica para la consulta de cualquier usuario(eso quieren cambiarlo) 
+los resultados son publicados, una vez enviado el formulario, en una tabla de /n
+ clasificaciones totalmente pubica para la consulta de cualquier usuario(eso quieren cambiarlo) 
 ```
 
   ## Proyectos
